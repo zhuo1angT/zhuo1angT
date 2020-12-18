@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there! It's zhuo1ang 👋
 
 - 🔭 I’m currently working on talent-plan@PingCAP
-- 🌱 I’m currently learning Systems
-- 👯 I’m looking to collaborate on Kernel, Distributed Storage / Computation
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning Systems, OS, Networks, Distributed Systems...
+- 👯 I’m looking forward to collaborate in FOSS 
+- 🤔 I’m looking for internship opportunities during vacations
 - 📫 How to reach me: zhuo1an9@gmail.com
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: ...
+[comment]: <> (- ⚡ Fun fact: ...)
