@@ -1,4 +1,4 @@
-# Hi there! It's zhuo1ang 👋
+## Hi there! It's zhuo1ang 👋
 
 - 🔭 I’m currently working on talent-plan@PingCAP
 - 🌱 I’m currently learning Systems, OS, Networks, Distributed Systems...
