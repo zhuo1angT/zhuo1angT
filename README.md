@@ -1,4 +1,4 @@
-### Hi there! It's zhuo1ang 👋
+# Hi there! It's zhuo1ang 👋
 
 - 🔭 I’m currently working on talent-plan@PingCAP
 - 🌱 I’m currently learning Systems, OS, Networks, Distributed Systems...
@@ -10,4 +10,4 @@
 
 [![zhuo1ang's github stats](https://github-readme-stats.vercel.app/api?username=zhuo1angT)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuo1angT)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuo1angT&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
