@@ -8,5 +8,4 @@
 - 😄 Pronouns: He / Him
 <!-- - ⚡ Fun fact: ... -->
 
-[![zhuo1ang's github stats](https://github-readme-stats.vercel.app/api?username=zhuo1angT)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuo1angT&hide=javascript,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
