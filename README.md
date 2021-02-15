@@ -1,6 +1,6 @@
 ## Hi there! It's zhuo1ang 👋
 
-- 🔭 I’m currently working on Google's three papers (GFS, MapReduce, BigTable)
+- 🔭 I’m currently working on Google's three papers (GFS, MapReduce, BigTable) and **Rust**!
 - 🌱 I’m currently learning Systems, OS, Networks, Distributed Systems...
 - 👯 I’m looking forward to collaborate in FOSS communities
 - 🤔 I’m looking for internship opportunities during vacations
