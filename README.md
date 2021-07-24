@@ -1,6 +1,6 @@
 ## Hi there! It's zhuo1ang 👋
 
-- 🔭 I’m currently working on TiKV Transaction Model and **Rust**!
+- 🔭 I’m currently working on TiKV Transaction Model.
 - 🌱 I’m currently learning Systems, OS, Networks, Distributed Systems, Databases...
 - 👯 I’m looking forward to collaborate in FOSS communities
 - 🤔 I’m looking for internship opportunities during vacations
