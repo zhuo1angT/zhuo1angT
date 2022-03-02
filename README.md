@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Systems, OS, Networks, Distributed Systems, Databases...
 - 👯 I’m looking forward to collaborate in FOSS communities
 - 🤔 I’m looking for internship opportunities during vacations
-- 📫 How to reach me: zhuo1an9@gmail.com
+- 📫 How to reach me: he@zhuoran.io
 - 😄 Pronouns: He / Him
 <!-- - ⚡ Fun fact: ... -->
 
