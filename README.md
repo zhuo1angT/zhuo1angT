@@ -1,6 +1,6 @@
 ## Hi there! It's zhuo1ang 👋
 
-- 🔭 I’m currently working on HPC contests.
+- 🔭 I’m currently working on Database Internals.
 - 🌱 I’m currently learning Systems, OS, Networks, Distributed Systems, Databases...
 - 👯 I’m looking forward to collaborate in FOSS communities
 - 🤔 I’m looking for internship opportunities during vacations
